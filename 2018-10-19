@@ -1,0 +1,30 @@
+Upcoming Vacation: 2018-10-29 through 2018-11-05
+
+# Done
+
+* Experimentation Analysis
+	* Prototyping a bootstrapping implementation to support experiment analysis
+	  [link](https://metrics.mozilla.com/~rharter/reports/experimentation/iterative_bootstrap/index.html)
+    * Analysis for AS ROW Shortcuts experiment ([Bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1500556))
+    * Figuring out how to productionize docere (In support of Socialization):
+        * Figuring out CSP issue
+          https://github.com/mozilla-services/cloudops-deployment/issues/2644
+        * RTMO Migration:
+            * https://github.com/mozilla/mozilla-reports/pull/82
+            * https://github.com/harterrt/docere/pull/23
+* Search
+    * Generating and reviewing staffing request for Experiments V2 and Sustainability Program
+* Review
+    * Reviewing and negotiating down requirements for Price Scout testpilot
+      ([link](https://github.com/mozilla/price-scout/pull/148))
+    * Documentation:
+        * https://github.com/mozilla/firefox-data-docs/pull/198
+        * https://github.com/mozilla/firefox-data-docs/pull/196
+        * https://github.com/mozilla/firefox-data-docs/pull/194
+    * Reviewing analyses for:
+        * VPN analysis (ask for link)
+        * Discussing Coverage Report with rtestard
+* Admin
+    * Alerting folks re: upcoming vacation. Slack, email, calendar, meetings, etc
+    * Migrating data to new work machine
+
